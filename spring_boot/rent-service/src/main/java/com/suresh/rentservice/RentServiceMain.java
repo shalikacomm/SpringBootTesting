@@ -14,6 +14,6 @@ public class RentServiceMain {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(RentServiceMain.class,args);
-		 
+		System.out.println("This is shalika");
 	}
 }
