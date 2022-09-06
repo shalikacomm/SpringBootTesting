@@ -1,5 +1,8 @@
 package com.suresh.rentservice;
 
 public class ImageController {
-sout
+private void sout() {
+	// TODO Auto-generated method stub
+
+}
 }
