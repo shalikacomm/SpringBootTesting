@@ -8,7 +8,7 @@ public class greetingController {
 	
 	@RequestMapping("/rentmaster/greeting")
 	public String sayHello(){
-		return "<h1> wow springboot you are awsome !!! </h1>";
+		return "<h1> wow springboot you are awsome test1 !!! </h1>";
 	}
 
 }
