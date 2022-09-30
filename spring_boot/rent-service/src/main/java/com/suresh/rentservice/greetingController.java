@@ -8,7 +8,7 @@ public class greetingController {
 	
 	@RequestMapping("/rentmaster/greeting")
 	public String sayHello(){
-		return "<h1> this is local octobe rchanges</h1>";
+		return "<h1> this is local november cloud cahnges rchanges</h1>";
 	}
 
 }
