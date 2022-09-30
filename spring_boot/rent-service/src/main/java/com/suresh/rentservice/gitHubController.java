@@ -8,7 +8,7 @@ public class GitHubController {
 	
 	@RequestMapping("/rentmaster/greeting")
 	public String sayHello(){
-		return "<h1> local change in october";
+		return "<h1> local change in october test 1";
 	}
 
 }
