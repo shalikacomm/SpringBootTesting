@@ -8,7 +8,7 @@ public class GitHubController {
 	
 	@RequestMapping("/rentmaster/greeting")
 	public String sayHello(){
-		return "<h1> this is a newly created file to vovember";
+		return "<h1> this is a newly created file to vovember these are some additional changes";
 	}
 
 }
